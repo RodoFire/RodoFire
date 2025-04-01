@@ -1,5 +1,5 @@
 # 💫 About Me:
-French engineer student at Polytech<br><br>🔭Curently focused of the developpement of minecraft mods.<br><br>📚Currently learning c++<br><br>🍵🐧 Duke enjoyer
+French engineer student at Polytech<br><br>🔭Curently focused of the developpement of minecraft mods.<br><br>📚Currently learning c++<br><br>🍵🐧 Duke enjoyer<br><br>Working at [Tropimon](https://tropimon.fr/)
 
 
 ## 🌐 Socials:
